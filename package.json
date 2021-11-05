@@ -1,0 +1,9 @@
+{
+  "name": "soul-mates-node",
+  "version": "1.0.0",
+  "description": "An attempty to model soul mates from \"What if?\"",
+  "main": "server.js",
+  "repository": "https://github.com/CutmanCometh/soul-mates-node",
+  "author": "CutmanCometh",
+  "license": "MIT"
+}
